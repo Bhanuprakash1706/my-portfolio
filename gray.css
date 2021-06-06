@@ -1,0 +1,56 @@
+body{
+  color: white;
+}
+h1,h2,h3,h4,h5,strong{
+  color: black;
+}
+p,li,ol,ul,label,input,span,textarea{
+  color: black;
+}
+a{
+  color: white;
+
+}
+.s1{
+  background-color:#D1D5DB;
+  border: 2px solid black;
+}
+.s2{
+  background-color:#9CA3AF;
+  border: 2px solid gray;
+}
+.i-w{
+  background:#E5E7EB;
+  box-shadow: 0 0 0 20px solid black;
+}
+.nav{
+    background-color: #4B5563;
+    border-bottom: 1px solid white;
+}
+.r-c{
+  background-color: #D1D5DB;
+  border: 2px solid white;
+}
+.preview{
+  background:#9CA3AF;
+}
+.corner{
+background-color:#4B5563;
+border: 2px solid white;
+}
+.skills{
+  background:  #4B5563;
+}
+i{
+    color:#4B5563;
+    width: 30px;
+}
+.p-p{
+  background-color:#6B7280;
+}
+.form{
+  background: #D1D5DB;
+}
+.btn{
+    background: #6B7280;
+}

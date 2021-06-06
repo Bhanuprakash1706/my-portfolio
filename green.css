@@ -1,0 +1,59 @@
+
+h1,h2,h3,h4,h5,strong{
+  color: black;
+}
+p,li,ol,ul,label,input,span,textarea{
+  color: black;
+}
+a{
+  color: white;
+
+}
+.s1{
+  background-color:#6EE7B7;
+  border: 2px solid black;
+}
+.s2{
+  background-color:#34D399;
+  border: 2px solid gray;
+}
+.i-w{
+  background:
+#A7F3D0;
+  box-shadow: 0 0 0 20px solid black;
+}
+.nav{
+    background-color:
+#059669;
+    border-bottom: 1px solid white;
+}
+.r-c{
+  background-color: #6EE7B7;
+  border: 2px solid white;
+}
+.preview{
+  background:#34D399;
+}
+.corner{
+background-color:
+#059669 ;
+border: 2px solid white;
+}
+.skills{
+  background:
+#059669;
+}
+i{
+    color:
+#059669;
+    width: 30px;
+}
+.p-p{
+  background-color:#10B981;
+}
+.form{
+  background: #6EE7B7;
+}
+.btn{
+    background: #10B981;
+}
